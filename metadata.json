@@ -1,0 +1,6 @@
+{
+  "name": "VAT Tracker",
+  "description": "Dual OCR receipt scanner, 5% UAE VAT auto-calculator, supplier detection (ADNOC, ENOC, Lulu, Carrefour), Google Sheets format sync, and monthly financial dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
